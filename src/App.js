@@ -20,7 +20,7 @@ function App() {
       </header>
     </div>
   );
-  //GIT EXAMPLE
+  //GIT EXAMPLE 2
 }
 
 export default App;
